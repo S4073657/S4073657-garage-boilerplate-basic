@@ -16,6 +16,6 @@
     "sourceMap": true,
     "incremental": true
   },
-  "include": ["src/**/*.ts", "tests/unit/routes/notes.test.ts"],
+  "include": ["src/**/*.ts"],
   "exclude": ["node_modules", "lib", "tests"]
 }
